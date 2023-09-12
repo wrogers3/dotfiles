@@ -1,0 +1,5 @@
+call plug#begin('~/.vim/plugged')
+
+"auto complete
+Plug 'https://github.com/neoclide/coc.nvim.git'
+call plug#end()
